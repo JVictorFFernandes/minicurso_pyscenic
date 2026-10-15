@@ -1,0 +1,749 @@
+gene	papel	tipo_celular	rss	rotulo
+GATA3	TF	T CD4	0.5392773615910672	GATA3
+MAF	TF	T CD4	0.49014669265399424	MAF
+BPTF	TF	T CD4	0.461464048729204	BPTF
+XBP1	TF	T CD4	0.44938879748356175	XBP1
+KLF2	TF	T CD4	0.4413807285836677	KLF2
+TFEC	TF	Mono CD14	0.6919701892711061	TFEC
+FOS	TF	Mono CD14	0.6876502408847411	FOS
+CEBPD	TF	Mono CD14	0.673422026577458	CEBPD
+JDP2	TF	Mono CD14	0.5618062655136853	JDP2
+MAFB	TF	Mono CD14	0.5614980598121344	MAFB
+EOMES	TF	NK	0.6103167759205266	EOMES
+TBX21	TF	NK	0.5579096342350691	TBX21
+IKZF2	TF	NK	0.5010362438955026	IKZF2
+RUNX3	TF	NK	0.4767003402160207	RUNX3
+EBF1	TF	B	0.7881879618029262	EBF1
+BACH2	TF	B	0.5483982773231221	BACH2
+REL	TF	B	0.543988084113056	REL
+BCL11A	TF	B	0.486741182982379	BCL11A
+IRF8	TF	B	0.4233043816688469	IRF8
+ZNF777	TF	T CD8	0.245949471041084	ZNF777
+KMT2B	TF	T CD4	0.41052292780250876	KMT2B
+TBP	TF	T CD4	0.37409219617416056	TBP
+NR2C2	TF	T CD4	0.37981201776573237	NR2C2
+MAFF	TF	DC	0.2627380623874439	MAFF
+IRF7	TF	B	0.379797952956481	IRF7
+ETS2	TF	T CD4	0.2796947916865641	ETS2
+DRAP1	TF	Mono FCGR3A	0.530605089703095	DRAP1
+CUX1	TF	Mono FCGR3A	0.3069350468842844	CUX1
+TCF7L2	TF	Mono CD14	0.5011154895920287	TCF7L2
+CEBPA	TF	Mono CD14	0.5549972091822911	CEBPA
+ELF1	TF	Plaquetas	0.4198539328985412	ELF1
+HMG20B	TF	Plaquetas	0.40026965126450165	HMG20B
+MAX	TF	Plaquetas	0.3633110555932405	MAX
+RFXAP	TF	Plaquetas	0.3071219014109873	RFXAP
+ZNF140	TF	Plaquetas	0.3053274147998636	ZNF140
+AASDH	alvo	Mono CD14		
+ACAT1	alvo	T CD4		
+ACSL1	alvo	Mono CD14		
+ACTB	alvo	Mono CD14		
+ADCK5	alvo	compartilhado		
+ADCY3	alvo	T CD4		
+ADD1	alvo	B		
+ADGRG1	alvo	NK		
+ADK	alvo	B		
+AEN	alvo	T CD4		
+AFF4	alvo	B		
+AGAP6	alvo	T CD4		
+AGL	alvo	T CD4		
+AHCYL2	alvo	T CD4		
+AHI1	alvo	B		
+AIFM1	alvo	NK		
+AK6	alvo	T CD4		
+AKT3	alvo	T CD4		
+AMDHD2	alvo	T CD4		
+ANK1	alvo	Mono CD14		
+ANKLE2	alvo	Mono FCGR3A		
+ANKRD26	alvo	NK		
+ANKRD39	alvo	T CD4		
+ANKRD46	alvo	Plaquetas		
+ANXA1	alvo	Mono CD14		
+AP1S2	alvo	Mono CD14		
+AP3M2	alvo	T CD4		
+AP4M1	alvo	T CD4		
+AP4S1	alvo	T CD4		
+AP5Z1	alvo	Plaquetas		
+APLP2	alvo	Mono CD14		
+APMAP	alvo	NK		
+APOBEC3G	alvo	NK		
+APP	alvo	B		
+APPL1	alvo	B		
+AQP3	alvo	T CD4		
+ARAP2	alvo	Mono CD14		
+ARHGAP25	alvo	NK		
+ARHGEF3	alvo	NK		
+ARHGEF9	alvo	NK		
+ARRB2	alvo	Mono CD14		
+ARRDC4	alvo	T CD4		
+ASAH1	alvo	Mono CD14		
+ASNS	alvo	T CD4		
+ATF7IP	alvo	B		
+ATP11C	alvo	T CD8		
+ATP1B1	alvo	T CD4		
+ATP6V0A2	alvo	Plaquetas		
+ATP6V0E2	alvo	T CD4		
+ATXN7L3B	alvo	T CD4		
+BANK1	alvo	B		
+BEND5	alvo	B		
+BLK	alvo	B		
+BLOC1S3	alvo	T CD4		
+BMT2	alvo	Plaquetas		
+BRCC3	alvo	NK		
+BRI3	alvo	Mono CD14		
+BRPF3	alvo	T CD4		
+BTBD9	alvo	DC		
+C12orf75	alvo	B		
+C16orf74	alvo	T CD4		
+C19orf38	alvo	Mono CD14		
+C1orf21	alvo	NK		
+C2orf88	alvo	Plaquetas		
+C3orf14	alvo	Mono CD14		
+C8orf33	alvo	NK		
+CALM1	alvo	T CD4		
+CAMK1D	alvo	B		
+CAMK2D	alvo	B		
+CAP1	alvo	Mono CD14		
+CAPN12	alvo	NK		
+CAPNS1	alvo	Mono CD14		
+CARS	alvo	T CD4		
+CASP1	alvo	Mono CD14		
+CASP8AP2	alvo	NK		
+CBLB	alvo	NK		
+CCDC142	alvo	T CD4		
+CCDC167	alvo	T CD4		
+CCDC186	alvo	B		
+CCDC50	alvo	B		
+CCDC71L	alvo	Plaquetas		
+CCDC88C	alvo	Mono FCGR3A		
+CCDC9	alvo	T CD4		
+CCL5	alvo	NK		
+CCND3	alvo	T CD4		
+CD1C	alvo	T CD4		
+CD247	alvo	NK		
+CD28	alvo	T CD4		
+CD2AP	alvo	B		
+CD320	alvo	DC		
+CD36	alvo	Mono CD14		
+CD40LG	alvo	T CD4		
+CD5	alvo	T CD4		
+CD68	alvo	Mono CD14		
+CD79B	alvo	B		
+CDC14A	alvo	T CD4		
+CDC37L1	alvo	T CD4		
+CDCA7L	alvo	B		
+CDH23	alvo	Mono FCGR3A		
+CDK14	alvo	B		
+CDKAL1	alvo	T CD4		
+CDKN1C	alvo	Mono FCGR3A		
+CDYL	alvo	B		
+CENPT	alvo	Plaquetas		
+CEP57L1	alvo	T CD4		
+CEP78	alvo	NK		
+CERS4	alvo	compartilhado		
+CERS6	alvo	B		
+CFAP36	alvo	T CD4		
+CHD7	alvo	compartilhado		
+CHI3L2	alvo	NK		
+CHST12	alvo	NK		
+CHST7	alvo	NK		
+CKB	alvo	Mono FCGR3A		
+CLDN15	alvo	DC		
+CLEC10A	alvo	T CD4		
+CLEC7A	alvo	Mono CD14		
+CLPP	alvo	T CD4		
+CLSTN3	alvo	T CD4		
+CMC1	alvo	NK		
+CMTR1	alvo	Mono FCGR3A		
+CNKSR2	alvo	compartilhado		
+CNNM3	alvo	T CD4		
+COBLL1	alvo	B		
+COL19A1	alvo	B		
+COL6A2	alvo	NK		
+COPG2	alvo	NK		
+COTL1	alvo	Mono CD14		
+COX16	alvo	T CD4		
+CPNE5	alvo	B		
+CRACR2A	alvo	T CD4		
+CRY1	alvo	Mono FCGR3A		
+CSF1R	alvo	Mono CD14		
+CSNK1G3	alvo	B		
+CST7	alvo	NK		
+CTSB	alvo	Mono CD14		
+CTSD	alvo	Mono CD14		
+CTSH	alvo	Mono CD14		
+CTSL	alvo	Mono CD14		
+CTSS	alvo	Mono CD14		
+CTSZ	alvo	Mono CD14		
+CUEDC1	alvo	B		
+CWC27	alvo	T CD4		
+CYB561D1	alvo	T CD4		
+CYB561D2	alvo	T CD4		
+CYBB	alvo	Mono CD14		
+CYLD	alvo	T CD4		
+DAAM1	alvo	compartilhado		
+DAB2	alvo	B		
+DCK	alvo	B		
+DDHD2	alvo	Plaquetas		
+DDOST	alvo	T CD4		
+DEDD	alvo	T CD4		
+DFFB	alvo	T CD4		
+DHRS3	alvo	NK		
+DHTKD1	alvo	B		
+DIP2A	alvo	NK		
+DMTF1	alvo	B		
+DNAJB4	alvo	T CD4		
+DNAJC27	alvo	Mono CD14		
+DNASE1	alvo	Plaquetas		
+DNASE1L3	alvo	DC		
+DNM2	alvo	T CD4		
+DPH2	alvo	T CD4		
+DUSP1	alvo	Mono CD14		
+DUSP11	alvo	T CD4		
+DUSP16	alvo	T CD4		
+DUSP6	alvo	Mono CD14		
+DVL2	alvo	NK		
+DYRK4	alvo	T CD4		
+E2F5	alvo	B		
+EFHD2	alvo	Mono CD14		
+EGLN2	alvo	DC		
+EGR1	alvo	Mono CD14		
+EHBP1	alvo	NK		
+EIF1	alvo	Mono CD14		
+EIF2AK1	alvo	Plaquetas		
+EIF5AL1	alvo	NK		
+EML2	alvo	T CD4		
+EML4	alvo	T CD4		
+EPHB6	alvo	B		
+EPS8	alvo	Mono CD14		
+ERN1	alvo	B		
+ERV3-1	alvo	Plaquetas		
+ESAM	alvo	Plaquetas		
+ETAA1	alvo	T CD4		
+ETS1	alvo	B		
+EVL	alvo	T CD4		
+EXO5	alvo	B		
+EXOC7	alvo	DC		
+EYA3	alvo	T CD4		
+F2R	alvo	Plaquetas		
+FAM107B	alvo	T CD4		
+FAM131A	alvo	T CD4		
+FAM184B	alvo	Mono CD14		
+FAM221A	alvo	DC		
+FAM222B	alvo	DC		
+FAM84B	alvo	T CD4		
+FANCD2	alvo	T CD4		
+FBXO8	alvo	T CD4		
+FBXW4	alvo	B		
+FCGR3A	alvo	Mono CD14		
+FCGRT	alvo	Mono CD14		
+FCHSD1	alvo	NK		
+FGL2	alvo	Mono CD14		
+FGR	alvo	Mono CD14		
+FHL3	alvo	Mono CD14		
+FKBP1A	alvo	Mono CD14		
+FLT3	alvo	B		
+FOXP1	alvo	T CD4		
+FRMD3	alvo	Plaquetas		
+FRS2	alvo	Mono FCGR3A		
+FTH1	alvo	Mono CD14		
+FXYD6	alvo	Mono CD14		
+FXYD7	alvo	T CD4		
+FZD1	alvo	T CD4		
+FZD2	alvo	T CD4		
+FZD3	alvo	B		
+GAB1	alvo	Mono FCGR3A		
+GABPA	alvo	compartilhado		
+GALM	alvo	T CD4		
+GANC	alvo	T CD4		
+GAS6	alvo	B		
+GATAD2A	alvo	T CD4		
+GCA	alvo	Mono CD14		
+GCHFR	alvo	NK		
+GCN1	alvo	T CD4		
+GCNT1	alvo	B		
+GEMIN4	alvo	T CD4		
+GEN1	alvo	T CD4		
+GFOD1	alvo	NK		
+GIMAP6	alvo	T CD4		
+GMDS	alvo	T CD4		
+GNAI2	alvo	Mono CD14		
+GNG2	alvo	NK		
+GNLY	alvo	NK		
+GPATCH2	alvo	T CD4		
+GPHN	alvo	Mono CD14		
+GPM6B	alvo	B		
+GPR89B	alvo	NK		
+GRAMD4	alvo	Mono CD14		
+GRK5	alvo	Plaquetas		
+GTF2IRD2B	alvo	Mono CD14		
+GTF3C5	alvo	compartilhado		
+GYG1	alvo	Mono CD14		
+GZMK	alvo	T CD4		
+GZMM	alvo	NK		
+H2AFZ	alvo	T CD4		
+HAGH	alvo	Mono FCGR3A		
+HCST	alvo	NK		
+HDHD2	alvo	Plaquetas		
+HEATR5A	alvo	Plaquetas		
+HEMK1	alvo	T CD4		
+HES4	alvo	compartilhado		
+HIGD1A	alvo	B		
+HINT3	alvo	Mono CD14		
+HIP1R	alvo	B		
+HIST1H2BD	alvo	Plaquetas		
+HLCS	alvo	compartilhado		
+HMG20A	alvo	T CD4		
+HNRNPLL	alvo	T CD4		
+HOPX	alvo	NK		
+HRAS	alvo	Mono FCGR3A		
+HSP90B1	alvo	B		
+HSPA14	alvo	Mono CD14		
+ICOSLG	alvo	T CD4		
+IDH3A	alvo	B		
+IFITM2	alvo	Mono CD14		
+IFITM3	alvo	Mono CD14		
+IFNG-AS1	alvo	T CD4		
+IGFBP4	alvo	NK		
+IL2RA	alvo	NK		
+IL2RB	alvo	T CD4		
+ILVBL	alvo	T CD4		
+IMPA1	alvo	T CD4		
+INO80	alvo	T CD4		
+INPP5A	alvo	Plaquetas		
+INPP5F	alvo	T CD4		
+INTS9	alvo	T CD4		
+IP6K1	alvo	T CD4		
+ITGB1	alvo	T CD4		
+ITGB2	alvo	Mono CD14		
+JADE2	alvo	T CD4		
+KAT6B	alvo	T CD4		
+KCTD13	alvo	T CD4		
+KCTD5	alvo	B		
+KIAA2026	alvo	B		
+KIN	alvo	Mono FCGR3A		
+KLC1	alvo	Mono FCGR3A		
+KLHDC4	alvo	T CD4		
+KLRC1	alvo	NK		
+KLRD1	alvo	NK		
+KLRF1	alvo	NK		
+KLRG1	alvo	NK		
+L3MBTL3	alvo	Mono FCGR3A		
+LAMP5	alvo	B		
+LAX1	alvo	T CD4		
+LCK	alvo	T CD4		
+LCP1	alvo	Mono CD14		
+LDAH	alvo	T CD4		
+LFNG	alvo	Mono CD14		
+LHFPL2	alvo	B		
+LIG1	alvo	Mono CD14		
+LIG3	alvo	T CD4		
+LIG4	alvo	B		
+LILRA4	alvo	B		
+LIMA1	alvo	T CD4		
+LIMS1	alvo	Plaquetas		
+LINC00243	alvo	T CD4		
+LINC00623	alvo	T CD4		
+LINC00937	alvo	Mono CD14		
+LINC00996	alvo	B		
+LIPT1	alvo	Plaquetas		
+LMBRD1	alvo	B		
+LMNB1	alvo	Mono CD14		
+LPCAT1	alvo	NK		
+LRRC25	alvo	Mono CD14		
+LRRC8B	alvo	Plaquetas		
+LRRN3	alvo	T CD8		
+LSG1	alvo	T CD4		
+LST1	alvo	Mono CD14		
+LTK	alvo	T CD4		
+LUZP1	alvo	T CD4		
+LYN	alvo	Mono CD14		
+LYST	alvo	Mono CD14		
+LYZ	alvo	Mono CD14		
+MAP3K7CL	alvo	Plaquetas		
+MAP7D3	alvo	T CD4		
+MAPKAPK2	alvo	B		
+MAPKBP1	alvo	NK		
+MARCH8	alvo	compartilhado		
+MATK	alvo	NK		
+MBD1	alvo	NK		
+MBD5	alvo	T CD4		
+MBP	alvo	NK		
+MBTD1	alvo	Plaquetas		
+MCM6	alvo	NK		
+MED15	alvo	T CD4		
+MED23	alvo	T CD4		
+MED26	alvo	Mono CD14		
+MEF2C	alvo	B		
+MEGF9	alvo	Mono CD14		
+MEN1	alvo	T CD4		
+METTL14	alvo	NK		
+METTL9	alvo	Mono CD14		
+MFN1	alvo	B		
+MFSD3	alvo	T CD4		
+MGST1	alvo	Mono CD14		
+MITD1	alvo	T CD4		
+MKKS	alvo	Mono CD14		
+MMD	alvo	Plaquetas		
+MMP25-AS1	alvo	T CD4		
+MNDA	alvo	Mono CD14		
+MPHOSPH8	alvo	T CD4		
+MPP6	alvo	B		
+MRPL35	alvo	T CD4		
+MRRF	alvo	T CD4		
+MS4A4A	alvo	Mono CD14		
+MS4A6A	alvo	Mono CD14		
+MS4A7	alvo	Mono CD14		
+MSN	alvo	Mono CD14		
+MTERF1	alvo	Mono CD14		
+MTHFSD	alvo	Mono CD14		
+MTMR9	alvo	B		
+MTRF1L	alvo	T CD4		
+MTRR	alvo	Mono FCGR3A		
+MYBBP1A	alvo	DC		
+MYBL1	alvo	NK		
+MYDGF	alvo	T CD4		
+MYO9A	alvo	B		
+MYOM2	alvo	NK		
+NAA40	alvo	T CD4		
+NACA2	alvo	T CD4		
+NAPB	alvo	NK		
+NATD1	alvo	T CD4		
+NBEAL1	alvo	T CD4		
+NBPF11	alvo	T CD4		
+NCALD	alvo	NK		
+NCDN	alvo	Mono FCGR3A		
+NCOA3	alvo	B		
+NCR1	alvo	NK		
+NDUFAF6	alvo	T CD4		
+NDUFAF7	alvo	T CD4		
+NDUFV2-AS1	alvo	T CD4		
+NEAT1	alvo	Mono CD14		
+NEDD9	alvo	Mono CD14		
+NEXN	alvo	Plaquetas		
+NFATC2	alvo	NK		
+NFXL1	alvo	T CD4		
+NIPAL2	alvo	Mono CD14		
+NKTR	alvo	T CD4		
+NME7	alvo	compartilhado		
+NMT2	alvo	T CD4		
+NNT-AS1	alvo	T CD4		
+NOL11	alvo	T CD4		
+NOMO3	alvo	T CD4		
+NOP14	alvo	T CD4		
+NSG1	alvo	DC		
+NUTM2A-AS1	alvo	Plaquetas		
+OAZ1	alvo	Mono CD14		
+OBSCN	alvo	Mono FCGR3A		
+OPA3	alvo	Mono CD14		
+OPTN	alvo	T CD4		
+ORC5	alvo	T CD4		
+OSBPL2	alvo	T CD4		
+OSBPL5	alvo	NK		
+OVCH1-AS1	alvo	Plaquetas		
+PABPC1L	alvo	Mono FCGR3A		
+PANX1	alvo	Plaquetas		
+PATJ	alvo	T CD8		
+PBXIP1	alvo	T CD4		
+PCDH9	alvo	B		
+PCYOX1	alvo	Mono CD14		
+PDCD7	alvo	Mono CD14		
+PDIK1L	alvo	Plaquetas		
+PDK1	alvo	T CD4		
+PEBP1	alvo	T CD4		
+PELI3	alvo	T CD4		
+PERP	alvo	T CD4		
+PGAM1	alvo	Mono CD14		
+PHC3	alvo	T CD4		
+PIKFYVE	alvo	B		
+PILRB	alvo	NK		
+PKNOX1	alvo	T CD4		
+PLAC8	alvo	B		
+PLAG1	alvo	B		
+PLBD1	alvo	Mono CD14		
+PLEKHF1	alvo	NK		
+PLEKHF2	alvo	B		
+PLEKHG3	alvo	NK		
+PLEKHM3	alvo	DC		
+PLPP5	alvo	B		
+PNO1	alvo	DC		
+POLD1	alvo	T CD4		
+POLR1A	alvo	Mono CD14		
+POLR1C	alvo	NK		
+POLR2H	alvo	T CD4		
+POLR3C	alvo	T CD4		
+POLR3D	alvo	Mono CD14		
+POU2AF1	alvo	B		
+POU2F1	alvo	B		
+POU5F2	alvo	T CD4		
+PPCDC	alvo	Mono CD14		
+PPM1A	alvo	Plaquetas		
+PPM1K	alvo	B		
+PPP2R5C	alvo	T CD4		
+PPP3CA	alvo	B		
+PPP6R2	alvo	T CD4		
+PRDM1	alvo	T CD4		
+PRIM2	alvo	Plaquetas		
+PRIMPOL	alvo	T CD4		
+PRKD3	alvo	B		
+PRR5	alvo	compartilhado		
+PRSS23	alvo	NK		
+PSAP	alvo	Mono CD14		
+PTDSS2	alvo	T CD4		
+PTGDR	alvo	NK		
+PTK2	alvo	Plaquetas		
+PTMS	alvo	B		
+PTPN6	alvo	Mono CD14		
+PTPRN2	alvo	T CD4		
+PTS	alvo	Mono CD14		
+PVT1	alvo	T CD4		
+PYCARD	alvo	Mono CD14		
+PYCR2	alvo	Plaquetas		
+PYHIN1	alvo	NK		
+QPCT	alvo	Mono CD14		
+RAB11A	alvo	Plaquetas		
+RAB11B-AS1	alvo	NK		
+RAB14	alvo	Mono CD14		
+RAB22A	alvo	T CD8		
+RAB27B	alvo	Plaquetas		
+RAB28	alvo	T CD4		
+RAB29	alvo	NK		
+RAB30	alvo	B		
+RAB3GAP1	alvo	Mono CD14		
+RAB3IP	alvo	Plaquetas		
+RABEP1	alvo	B		
+RAD9A	alvo	NK		
+RALGPS2	alvo	B		
+RAP1B	alvo	Plaquetas		
+RASA1	alvo	T CD4		
+RASGRP2	alvo	Plaquetas		
+RBAK	alvo	B		
+RCC1L	alvo	NK		
+REPIN1	alvo	B		
+RFC4	alvo	T CD4		
+RFTN1	alvo	Mono FCGR3A		
+RFX7	alvo	T CD4		
+RGS1	alvo	T CD4		
+RGS18	alvo	Plaquetas		
+RGS3	alvo	Plaquetas		
+RHOC	alvo	Mono FCGR3A		
+RHPN1	alvo	T CD4		
+RIMKLB	alvo	Mono FCGR3A		
+RMDN3	alvo	NK		
+RMND1	alvo	T CD4		
+RNASEH2B	alvo	B		
+RNF130	alvo	Mono CD14		
+RNF170	alvo	Mono FCGR3A		
+RNMT	alvo	T CD4		
+RORA	alvo	T CD4		
+RORC	alvo	T CD4		
+RPGR	alvo	T CD8		
+RRAS	alvo	Mono CD14		
+RRBP1	alvo	B		
+RSBN1L	alvo	T CD4		
+RTKN2	alvo	NK		
+RUFY2	alvo	B		
+RUNX2	alvo	B		
+RWDD2B	alvo	compartilhado		
+RXRA	alvo	Mono CD14		
+S100A11	alvo	Mono CD14		
+S100A12	alvo	Mono CD14		
+S100A4	alvo	Mono CD14		
+S100A6	alvo	Mono CD14		
+S100A8	alvo	Mono CD14		
+S1PR5	alvo	NK		
+SAMD3	alvo	NK		
+SAP130	alvo	NK		
+SARAF	alvo	T CD4		
+SAYSD1	alvo	B		
+SBK1	alvo	NK		
+SDHAF3	alvo	B		
+SEC22A	alvo	T CD4		
+SEC61G	alvo	B		
+SEPHS1	alvo	T CD4		
+SERPINA1	alvo	Mono CD14		
+SESN1	alvo	T CD4		
+SETBP1	alvo	compartilhado		
+SFMBT2	alvo	Mono FCGR3A		
+SFT2D2	alvo	B		
+SH2D3C	alvo	Mono CD14		
+SH3RF1	alvo	Mono CD14		
+SHPRH	alvo	T CD4		
+SHQ1	alvo	T CD4		
+SIGLEC10	alvo	Mono CD14		
+SIRPG	alvo	T CD4		
+SKI	alvo	DC		
+SLAMF7	alvo	NK		
+SLBP	alvo	Plaquetas		
+SLC10A7	alvo	T CD4		
+SLC23A2	alvo	B		
+SLC25A4	alvo	T CD4		
+SLC2A6	alvo	Mono CD14		
+SLC35D2	alvo	Plaquetas		
+SLC36A4	alvo	Mono CD14		
+SLC5A6	alvo	Mono FCGR3A		
+SLC7A7	alvo	Mono CD14		
+SLC9A8	alvo	T CD4		
+SLF1	alvo	T CD4		
+SMPD3	alvo	B		
+SNAP47	alvo	NK		
+SNX25	alvo	T CD4		
+SNX9	alvo	Mono FCGR3A		
+SOD1	alvo	T CD4		
+SPICE1	alvo	T CD4		
+SPON1	alvo	B		
+SPON2	alvo	NK		
+SPPL2B	alvo	B		
+SPRYD3	alvo	Mono CD14		
+SPTAN1	alvo	T CD4		
+SPTBN1	alvo	B		
+SRGN	alvo	Mono CD14		
+SS18	alvo	T CD4		
+SSPN	alvo	B		
+SSR3	alvo	T CD4		
+SSX2IP	alvo	Plaquetas		
+ST3GAL4	alvo	B		
+ST6GALNAC4	alvo	Mono FCGR3A		
+STK11	alvo	Mono CD14		
+STK4	alvo	T CD4		
+STRADB	alvo	Plaquetas		
+STRBP	alvo	B		
+STX7	alvo	B		
+SWAP70	alvo	B		
+SYNE2	alvo	T CD4		
+SYT11	alvo	NK		
+TADA2B	alvo	DC		
+TAF5	alvo	Mono CD14		
+TAGLN	alvo	Mono CD14		
+TALDO1	alvo	Mono CD14		
+TAPT1	alvo	B		
+TARBP1	alvo	T CD4		
+TBC1D24	alvo	Mono FCGR3A		
+TBC1D4	alvo	T CD4		
+TBC1D8	alvo	Mono FCGR3A		
+TBCK	alvo	T CD4		
+TBL1XR1	alvo	B		
+TCF4	alvo	B		
+TCL1A	alvo	B		
+TCP11L2	alvo	T CD4		
+TCTEX1D2	alvo	T CD4		
+TEX10	alvo	T CD4		
+TFDP2	alvo	NK		
+TGFBR3	alvo	NK		
+TGIF2	alvo	T CD4		
+THBS1	alvo	Plaquetas		
+TIFA	alvo	B		
+TIMM21	alvo	Mono CD14		
+TIPARP	alvo	T CD8		
+TKT	alvo	Mono CD14		
+TLCD2	alvo	NK		
+TLDC1	alvo	T CD4		
+TLK1	alvo	Plaquetas		
+TMC6	alvo	NK		
+TMCO4	alvo	T CD4		
+TMED8	alvo	B		
+TMEM116	alvo	T CD4		
+TMEM135	alvo	DC		
+TMEM181	alvo	NK		
+TMEM68	alvo	B		
+TMEM91	alvo	Plaquetas		
+TNFAIP8	alvo	T CD4		
+TNFRSF14	alvo	T CD4		
+TNFRSF1B	alvo	Mono CD14		
+TNFRSF4	alvo	NK		
+TNFRSF8	alvo	Mono CD14		
+TNIP2	alvo	Mono FCGR3A		
+TOMM70	alvo	T CD4		
+TOX	alvo	T CD4		
+TRAF3IP3	alvo	T CD4		
+TRAF6	alvo	B		
+TRAM1	alvo	B		
+TRANK1	alvo	NK		
+TRAPPC9	alvo	T CD4		
+TRIM39	alvo	Plaquetas		
+TRIM66	alvo	Mono FCGR3A		
+TRMT10A	alvo	T CD4		
+TRMT12	alvo	T CD4		
+TRUB2	alvo	NK		
+TSC22D1	alvo	Plaquetas		
+TSEN54	alvo	NK		
+TSPAN13	alvo	B		
+TSPAN3	alvo	B		
+TSPAN33	alvo	Plaquetas		
+TSPAN5	alvo	T CD4		
+TSPO	alvo	Mono CD14		
+TTC39C	alvo	T CD4		
+TTN-AS1	alvo	T CD4		
+TXN	alvo	B		
+TXNDC11	alvo	T CD4		
+TYMP	alvo	Mono CD14		
+UBAP1	alvo	Mono CD14		
+UBB	alvo	NK		
+UBE2G1	alvo	T CD4		
+UBL7-AS1	alvo	T CD4		
+UBQLN2	alvo	Mono CD14		
+UBR7	alvo	T CD4		
+UBTD1	alvo	T CD8		
+UBXN2A	alvo	Plaquetas		
+UCK1	alvo	T CD4		
+UGCG	alvo	B		
+ULK2	alvo	Mono CD14		
+ULK4	alvo	B		
+UNK	alvo	Plaquetas		
+UPF1	alvo	Mono CD14		
+UQCC1	alvo	NK		
+URGCP	alvo	T CD4		
+USE1	alvo	T CD4		
+USP13	alvo	Mono CD14		
+USP14	alvo	Mono CD14		
+USP38	alvo	T CD4		
+UTRN	alvo	Mono CD14		
+UVRAG	alvo	B		
+VAV3	alvo	B		
+VCAN	alvo	Mono CD14		
+VILL	alvo	T CD4		
+VNN2	alvo	Mono CD14		
+VOPP1	alvo	T CD4		
+VRK2	alvo	T CD4		
+WBP4	alvo	Mono CD14		
+WDR24	alvo	T CD4		
+WDR5	alvo	DC		
+WDR92	alvo	Plaquetas		
+WEE1	alvo	T CD4		
+WIPI1	alvo	Plaquetas		
+WRAP73	alvo	Mono FCGR3A		
+WRNIP1	alvo	Plaquetas		
+XCL1	alvo	NK		
+XYLT2	alvo	T CD4		
+YES1	alvo	T CD4		
+ZBED5	alvo	B		
+ZBTB16	alvo	NK		
+ZBTB43	alvo	T CD4		
+ZDHHC17	alvo	B		
+ZEB2	alvo	Mono CD14		
+ZFAND5	alvo	Mono CD14		
+ZFAT	alvo	B		
+ZFYVE27	alvo	Mono CD14		
+ZFYVE28	alvo	T CD4		
+ZNF138	alvo	T CD4		
+ZNF141	alvo	T CD4		
+ZNF18	alvo	T CD4		
+ZNF185	alvo	Plaquetas		
+ZNF273	alvo	NK		
+ZNF292	alvo	T CD4		
+ZNF331	alvo	T CD4		
+ZNF33B	alvo	B		
+ZNF398	alvo	Mono CD14		
+ZNF496	alvo	T CD4		
+ZNF512B	alvo	Mono CD14		
+ZNF568	alvo	T CD4		
+ZNF646	alvo	NK		
+ZNF654	alvo	T CD4		
+ZNF668	alvo	T CD4		
+ZNF703	alvo	Mono CD14		
+ZNF736	alvo	B		
+ZNF765	alvo	NK		
+ZNF880	alvo	T CD4		
+ZNRF2	alvo	B		
+ZSCAN29	alvo	T CD4		
+ZSCAN5A	alvo	T CD4		
